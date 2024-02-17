@@ -6,8 +6,8 @@ Sou Alexandre Kranz!
 <p>
   
 🌱 Estou aprendendo atualmente:<p>
-✔ TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I <br>
-✔ DESIGN DE INTERAÇÃO
+✔ TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I <BR>
+✔ DESIGN DE INTERAÇÃO <BR>
 ✔ SPRING BOOT, SPRING MVC, THYMELEAF, REST API, JPA...
 
 <p>
