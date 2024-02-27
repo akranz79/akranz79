@@ -22,7 +22,7 @@ Sou Alexandre Kranz!
 Principais tecnologias que utilizo: 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,maven,spring,php,laravel,mysql,postgres,py,html,css,javascript,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,py,html,css,javascript,linux&theme=dark)](https://skillicons.dev)
 
 ## Minhas redes sociais:
 <div>
