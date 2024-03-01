@@ -1,7 +1,7 @@
 
 ## Olá, 
 <br />
-<a href="https://github.com/akranz79/"><img src="https://github.com/akranz79/akranz79/blob/main/img/img2.png" width="75px;" alt="" /> </a>
+
 <br> Sou Alexandre Kranz! 
 
 <p>🖋</p>
