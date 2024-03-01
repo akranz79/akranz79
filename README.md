@@ -2,13 +2,23 @@
 ## Olá, 
 Sou Alexandre Kranz!
 
-👨‍🎓 Estudante de engenharia de Software, 7º período
-<p>
+⚙ Técnico em Informática Industrial. <br>
+⚙ Analista de sistemas. <br>
+👨‍🎓 Estudante de engenharia de Software. <br>
+
+### Aqui estão os projetos de maior relevancia:
+
+1º [💊](https://github.com/akranz79/nlw-expert-java) NLW Java Spring <br>
+2º [💊](https://github.com/akranz79/nlw-html-css-expert) NLW JavaScript <br>
+3º [💊](https://github.com/akranz79/cracha-nlw) NLW Crachá Virtual <br>
+4º [💊](https://github.com/akranz79/dio-desafio-bancodigital) Dio Banco Digital <br>
+5º [🕹](https://github.com/akranz79/vinteUm) Kr4z Game 21 <br>
   
-🌱 Estou aprendendo atualmente:<p>
-✔ TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I <BR>
-✔ DESIGN DE INTERAÇÃO <BR>
-✔ SPRING BOOT, SPRING MVC, THYMELEAF, REST API, JPA...
+### 🌱 Estou estudando atualmente:<p>
+✔ TCC I <br>
+✔ TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I <br>
+✔ DESIGN DE INTERAÇÃO <br>
+✔ SPRING BOOT, SPRING MVC, THYMELEAF, REST API, JPA... <br>
 
 <p>
 
