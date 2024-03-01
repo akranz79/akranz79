@@ -1,6 +1,13 @@
 
 ## Olá, 
-Sou Alexandre Kranz!
+<br />
+<a href="https://github.com/akranz79/"><img src="https://github.com/akranz79/akranz79/blob/main/img/img2.png" width="75px;" alt="" /> </a>
+<br> Sou Alexandre Kranz! 
+
+<p>🖋</p>
+ 
+"Cada bug corrigido é uma lição aprendida, e cada desafio superado é um passo em direção à maestria."
+<p></p>
 
 ⚙ Técnico em Informática Industrial. <br>
 ⚙ Analista de sistemas. <br>
