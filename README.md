@@ -9,9 +9,9 @@
 "Cada bug corrigido é uma lição aprendida, e cada desafio superado é um passo em direção à maestria."
 <p></p>
 
-⚙ Técnico em Informática Industrial. <br>
-⚙ Analista de sistemas. <br>
 👨‍🎓 Estudante de engenharia de Software. <br>
+⚙ Analista de sistemas. <br>
+⚙ Técnico em Informática Industrial. <br>
 
 ### Aqui estão os projetos de maior relevancia:
 
