@@ -13,6 +13,8 @@
 ⚙ Analista de sistemas. <br>
 👨‍🎓 Estudante de engenharia de Software. <br>
 
+![Snake animation](https://github.com/igoormatias/igoormatias/blob/main/github-contribution-grid-snake.svg)
+
 ### Aqui estão os projetos de maior relevancia:
 
 1º [💊](https://github.com/akranz79/nlw-expert-java) NLW Java Spring <br />
