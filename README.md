@@ -13,8 +13,6 @@
 ⚙ Analista de sistemas. <br>
 👨‍🎓 Estudante de engenharia de Software. <br>
 
-![Snake animation](https://github.com/igoormatias/igoormatias/blob/main/github-contribution-grid-snake.svg)
-
 ### Aqui estão os projetos de maior relevancia:
 
 1º [💊](https://github.com/akranz79/nlw-expert-java) NLW Java Spring <br />
@@ -44,6 +42,8 @@ Principais tecnologias que utilizo:
 <p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,py,html,css,javascript,linux&theme=dark)](https://skillicons.dev)
+
+![Snake animation](https://github.com/akranz79/akranz79/blob/main/github-contribution-grid-snake.svg)
 
 ## Minhas redes sociais:
 <div>
