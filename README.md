@@ -13,23 +13,37 @@
 ⚙ Analista de sistemas. (2018)<br>
 ⚙ Técnico em Informática Industrial. (2001)<br>
 
-### Aqui estão os projetos de maior relevancia:
 
-1º [💊](https://github.com/akranz79/nlw-expert-java) NLW Java Spring <br />
-2º [💊](https://github.com/akranz79/nlw-html-css-expert) NLW JavaScript <br />
-3º [💊](https://github.com/akranz79/nlw-together) NLW Together <br />
-4º [💊](https://github.com/akranz79/cracha-nlw) NLW Crachá Virtual <br />
-5º [💊](https://github.com/akranz79/nlw-sports) NLW Sports <br />
-6º [💊](https://github.com/akranz79/dio-desafio-bancodigital) Dio Banco Digital <br />
-7º [🕹](https://github.com/akranz79/vinteUm) Kr4z Game 21 <br />
-  
-### 🌱 Estou estudando atualmente:<p>
-✔ TCC I <br>
-✔ TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I <br>
-✔ DESIGN DE INTERAÇÃO <br>
-✔ SPRING BOOT, SPRING MVC, THYMELEAF, REST API, JPA... <br>
+## Alguns projetos de relevancia:
 
-<p>
+### 🚀 NLW RocketSeat 
+[NLW Java Spring](https://github.com/akranz79/nlw-expert-java)  <br />
+[NLW JavaScript](https://github.com/akranz79/nlw-html-css-expert)  <br />
+[NLW Together](https://github.com/akranz79/nlw-together)  <br />
+[NLW Crachá Virtual](https://github.com/akranz79/cracha-nlw)  <br />
+[NLW Sports](https://github.com/akranz79/nlw-sports)  <br />
+
+### 🎮 Jogos
+[Game 21](https://github.com/akranz79/vinteUm)  👉 Versão do jogo 21 escrito em python <br />
+[Pockedex](https://github.com/akranz79/pypokedex) 👉 desenvolvido em python <br />
+[Street Fighter CardGame](https://github.com/akranz79/StreetFighterCardGame)   🧩 Variação do projeto de origem [Valorant](https://jefersonsilva01.github.io/Valorant-The-Card-Game/)  <br />
+
+
+ ### 🧑‍💻 Outros projetos
+[Dio Banco Digital](https://github.com/akranz79/dio-desafio-bancodigital)  <br />
+[Coleção de mini-projetos](https://github.com/akranz79/miniProjetos50) <br />
+[Balle-Bot](https://github.com/akranz79/balle-bot) Construindo uma Landing Page com Rafaella Ballerini. Projeto original [aqui](https://www.youtube.com/watch?v=llF6vD-RljE&ab_channel=RafaellaBallerini) <br />
+
+
+### 🚧 Em construção
+[NLW React](https://github.com/akranz79/NLW-06-React) <br />
+[lista de Exercicios](https://github.com/akranz79/listaExercicios) 👉 Exercicios diversos de lógica de programação em python <br />
+[SheyCars](https://github.com/akranz79/sheycars-udemy-master) Minha versão do projeto RentCar <br />
+[Tutorial Git e Github](https://github.com/akranz79/GitTutorial) 👉 Tutorial antigo<br />
+[Unicesumar](https://github.com/akranz79/Unicesumar) 👉 Exercicios das disciplinas da faculdade 🔒 <br />
+
+
+## 🟢🟡🔴 Statistics 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akranz79&layout=donut&theme=chartreuse-dark)](https://github.com/akranz79/github-readme-stats)
 <p>
