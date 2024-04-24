@@ -10,7 +10,6 @@
 <p></p>
 
 👨‍🎓 Estudante de engenharia de Software. (2024)<br>
-⚙ Analista de sistemas. (2018)<br>
 ⚙ Técnico em Informática Industrial. (2001)<br>
 
 
