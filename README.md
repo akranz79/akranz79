@@ -54,7 +54,7 @@
 Principais tecnologias que utilizo: 
 <p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,py,html,css,javascript,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,linux&theme=dark)](https://skillicons.dev)
 
 ![Snake animation](https://github.com/akranz79/akranz79/blob/main/github-contribution-grid-snake.svg)
 
