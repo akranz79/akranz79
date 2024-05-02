@@ -29,7 +29,7 @@
 
 
  ### 🧑‍💻 Outros projetos
-[Dio Banco Digital](https://github.com/akranz79/dio-desafio-bancodigital)  <br />
+[Dio Banco Digital](https://github.com/akranz79/dio-desafio-bancodigital)  🚀✨ >> UPDate :[Aqui](https://github.com/akranz79/DesafioBancoDio) <br />
 [Coleção de mini-projetos](https://github.com/akranz79/miniProjetos50) <br />
 [Balle-Bot](https://github.com/akranz79/balle-bot) Construindo uma Landing Page com Rafaella Ballerini. Projeto original [aqui](https://www.youtube.com/watch?v=llF6vD-RljE&ab_channel=RafaellaBallerini) <br />
 
