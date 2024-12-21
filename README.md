@@ -9,7 +9,7 @@
 "Cada bug corrigido é uma lição aprendida, e cada desafio superado é um passo em direção à maestria."
 <p></p>
 
-👨‍🎓 Engenharia de Software.<br>
+👨‍🎓 Engenheiro de Software.<br>
 ⚙ Técnico em Informática Industrial.<br>
 
 
